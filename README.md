@@ -56,3 +56,7 @@ Faux cela correspond à un groupement de 512, soit 2 puissance 9
 ### 4 
 
 Dans ce cas là `Rb = 4.88`
+
+### 5 
+
+Le CRC permet de detecter les eventuels erreurs de transmission grace à l'utilisation de données redondantes.
