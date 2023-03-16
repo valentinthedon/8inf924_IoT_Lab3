@@ -40,4 +40,19 @@ Nous pouvons donc observer nos données arriver sur TTN :
 
 ![Affichage TTN des données capteurs](receivedTrame.PNG)
 
+![Affichage TTN des données capteurs](exo2console.PNG)
 
+## Exercice 3
+
+### 1
+Les grands acteurs de l'IoT sont les grand groupes comme Amozon, Google, etc mais aussi les start-up comme Samsara, Losant, etc.
+
+### 2 
+L'utilisation de codes orthogonaux permet de s'affranchir du bruit car chaque bit du message est multiplié par un code d'étalement.
+
+### 3
+Faux cela correspond à un groupement de 512, soit 2 puissance 9
+
+### 4 
+
+Dans ce cas là `Rb = 4.88`
